@@ -1,0 +1,1 @@
+(()=>{const n=document.getElementById("buttonInstall");window.addEventListener("beforeinstallprompt",(n=>{})),window.addEventhandler("beforeinstallprompt",(n=>{})),n.addEventListener("click",(async()=>{})),n.addEventhandler("click",(async()=>{})),window.addEventListener("appinstalled",(n=>{})),window.addEventhandler("appinstalled",(n=>{}))})();
